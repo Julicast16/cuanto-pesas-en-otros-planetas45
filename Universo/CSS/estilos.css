@@ -1,0 +1,17 @@
+body{
+    padding: 10px;
+    margin: 40px;
+    font-size: 28px;
+    font-family: cursive;
+    background-image: url(https://th.bing.com/th/id/R.02246a0b4afec91d88e5090523cbb4e2?rik=XlAs4WKwsG3PiA&pid=ImgRaw&r=0);
+    background-repeat: no-repeat;
+    background-size: auto;
+    color: rgb(0, 0, 0);
+}
+
+nav
+{
+    background-color: rgb(204, 243, 247);
+    padding: opx;
+    color: hsla(0, 44%, 33%, 0.696)0ff;
+}
